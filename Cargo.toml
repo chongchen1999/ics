@@ -1,3 +1,5 @@
 [workspace]
 resolver = "2"
-members = ["lab/inline_assembly", "lab/multi-mod"]
+members = [
+    "labs/lab1_mulit_and_mod"
+]

@@ -3,9 +3,5 @@
 version = 4
 
 [[package]]
-name = "inline_assembly"
-version = "0.1.0"
-
-[[package]]
-name = "multi-mod"
+name = "lab1_mulit_and_mod"
 version = "0.1.0"
